@@ -1,4 +1,5 @@
 # Hi, I'm Al Riad Hridoy 😃
+![](https://komarev.com/ghpvc/?username=your-github-alriadhridoy&color=dc143c)
 
 
 ## 🔗 Links
