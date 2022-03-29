@@ -1,4 +1,5 @@
 # Hi, I'm Al Riad Hridoy 😃
+## I love solving programing problem the most. I have patience and interest to learn something new.
 ![profileView](https://komarev.com/ghpvc/?username=your-github-alriadhridoy&color=dc143c)
 
 
